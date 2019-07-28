@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "15b9a2f94ce296b5ffd2f0735727c7d6"
+build_time: [1564024522, 521982000]
+inputs:
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/AFError.swift": [1563850181, 871629431]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Alamofire.swift": [1563850181, 872541199]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1563850181, 871035528]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/MultipartFormData.swift": [1563850181, 870448801]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1563850181, 870652897]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Notifications.swift": [1563850181, 872109533]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/ParameterEncoding.swift": [1563850181, 871404911]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Request.swift": [1563850181, 872841979]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Response.swift": [1563850181, 872278864]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/ResponseSerialization.swift": [1563850181, 873509960]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Result.swift": [1563850181, 871238536]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1563850181, 873745867]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/SessionDelegate.swift": [1563850181, 873927231]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/SessionManager.swift": [1563850181, 873229854]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/TaskDelegate.swift": [1563850181, 870274004]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Timeline.swift": [1563850181, 870860247]
+  "/Users/stanleys_imac/Desktop/Swift/Devslopes(Mark)/Smack/Smack/Pods/Alamofire/Source/Validation.swift": [1563850181, 871831716]
