@@ -1,0 +1,3 @@
+[submodule "mac-chat-api"]
+	path = mac-chat-api
+	url = https://git.heroku.com/chattychatsv.git
