@@ -1,5 +1,5 @@
 {
-  "name": "slacky-slack",
+  "name": "chattychatsv",
   "version": "1.0.0",
   "engines": {
     "node": "6.10.2"
@@ -48,5 +48,13 @@
   "devDependencies": {
     "eslint": "3.19.0",
     "nodemon": "1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjvarnhagen/Smack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjvarnhagen/Smack/issues"
+  },
+  "homepage": "https://github.com/sjvarnhagen/Smack#readme"
 }
